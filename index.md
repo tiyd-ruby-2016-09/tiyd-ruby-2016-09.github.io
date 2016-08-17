@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome!
+# Welcome!
 
 Welcome to the The Iron Yard in Durham! Congratulations on being accepted and for deciding to take on such an intense program. The next three months will be exciting, exhausting, and empowering.
 

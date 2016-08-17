@@ -4,7 +4,7 @@ layout: default
 
 # Syllabus
 
-## Instructor Contact Info
+### Instructor Contact Info
 
 Bryce Darling
 
