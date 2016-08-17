@@ -1,0 +1,28 @@
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">{{ site.title }}</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav"></ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li class="dropdown{% if page.url == '/syllabus.html' or page.url == '/mac-specs.html' or page.url == '/mac-setup.html' or page.url == '/accounts.html' or page.url == '/pre-work.html' %} active{% endif %}">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Before <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <!-- <li{% if page.url == '/syllabus.html' %} class="active"{% endif %}><a href="/syllabus">Read the Syllabus</a></li> -->
+            <li{% if page.url == '/mac-specs.html' %} class="active"{% endif %}><a href="/mac-specs">Get a Mac</a></li>
+            <li{% if page.url == '/mac-setup.html' %} class="active"{% endif %}><a href="/mac-setup">Setup your Mac</a></li>
+            <li{% if page.url == '/accounts.html' %} class="active"{% endif %}><a href="/accounts">Register for accounts</a></li>
+            <li{% if page.url == '/pre-work.html' %} class="active"{% endif %}><a href="/pre-work">Do the pre-work</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container-fluid -->
+</nav>
