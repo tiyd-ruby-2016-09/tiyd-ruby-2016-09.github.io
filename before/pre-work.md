@@ -6,23 +6,23 @@ layout: default
 
 We've got [a lot to cover](https://dgosxlrnzhofi.cloudfront.net/custom_page_images/64/page_images/Rails_Competencies.png?1386276348) and only a few short weeks to do so. I'm going to ask that you complete some preliminary work, so that we can establish a common starting point and spend class time focusing on things that are most difficult to learn on your own.
 
-These assignments won't make you a Ruby master (if they could, I wouldn't be here) - but they will make sure that you've got a good foundation to build on, and are ready to make the most out of the course. Importantly, this work will assure me that you:
+This pre-work won't make you a Ruby master but it will make sure that you've got a good foundation to build on and are ready to make the most out of the course.d
+
+Importantly, this work will assure me that you:
 
 * can self-direct progress on technical projects.
 * have been exposed to the key technologies and workflows that we'll be using in class.
 * can communicate difficulties and accomplishments clearly.
 * have reflected on your learning style.
 
-Point 2 is not "have internalized every nuance", but I will expect you to at least be _familiar_ with e.g. `git` and the terminal - you're likely to feel lost out of the gate otherwise.
+Additionally, I will expect you to at least be _familiar_ with running programs from the Terminal e.g. `git` and `irb` from having done this pre-work. If you hadn't tried these things before the first day of class you'd likely be lost quickly as we hit the ground running.
 
 
 ## Giving And Receiving Help
 
 One of the hardest skills for a junior dev to learn is how to ask for help. It is also one of the most important. I, of course, am here to help however I can. But you will also need to lean on the class and community around you.
 
-* Watch (and re-watch if necessary) this excellent video on giving and receiving help.
-
-[Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s)
+* Watch (and re-watch if necessary) this excellent video: [Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s)
 
 
 ## Requirements
@@ -81,7 +81,6 @@ GitHub is a website which hosts Git repositories. We will be hosting all of our 
 * Email me the username you choose so that I can get you added to the group we'll be using for class
 * Check out the [GitHub Guides](https://guides.github.com/) if you want to learn how to use GitHub prior to class.
 
-
 ## HTML / CSS
 
 At the end of the day, our applications will be responsible for producing HTML and CSS. That said, we will be covering them rapidly, as many people are familiar with them from past experience. Especially if you are not, you must take some time to familiarize yourself with these foundational technologies.
@@ -99,6 +98,10 @@ We'll cover Ruby from square one in class, but many of the concepts can take rep
 
 * Complete the [Codecademy Ruby course](http://www.codecademy.com/en/tracks/ruby); be sure you _understand_ at least through "Hashes and Symbols".
 
+While you have the Treehouse account, it might be worthwhile to also:
+
+* Optionally work through the [Treehouse Ruby course](https://teamtreehouse.com/tracks/learn-ruby).
+* Optionally work through the [Treehouse Rails course](https://teamtreehouse.com/tracks/rails-development).
 
 ## Reflection
 
