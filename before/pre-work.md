@@ -4,7 +4,7 @@ layout: default
 
 # Pre-work
 
-We've got [a lot](https://dgosxlrnzhofi.cloudfront.net/custom_page_images/64/page_images/Rails_Competencies.png?1386276348) to cover and only a few short weeks to do so. I'm going to ask that you complete some preliminary work, so that we can establish a common starting point and spend class time focusing on things that are most difficult to learn on your own.
+We've got [a lot to cover](https://dgosxlrnzhofi.cloudfront.net/custom_page_images/64/page_images/Rails_Competencies.png?1386276348) and only a few short weeks to do so. I'm going to ask that you complete some preliminary work, so that we can establish a common starting point and spend class time focusing on things that are most difficult to learn on your own.
 
 These assignments won't make you a Ruby master (if they could, I wouldn't be here) - but they will make sure that you've got a good foundation to build on, and are ready to make the most out of the course. Importantly, this work will assure me that you:
 
@@ -18,7 +18,9 @@ Point 2 is not "have internalized every nuance", but I will expect you to at lea
 
 ## Giving And Receiving Help
 
-One of the hardest skills for a junior dev to learn is how to ask for help. It is also one of the most important. I, of course, am here to help however I can. But you will also need to lean on the class and community around you. Watch (and re-watch if necessary) this excellent video on giving and receiving help.
+One of the hardest skills for a junior dev to learn is how to ask for help. It is also one of the most important. I, of course, am here to help however I can. But you will also need to lean on the class and community around you.
+
+1. Watch (and re-watch if necessary) this excellent video on giving and receiving help.
 
 [Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s)
 
@@ -34,7 +36,7 @@ You will need to sign up for Treehouse to complete some of these tasks. Treehous
 
 ### Install software
 
-Follow the [installation instructions here to setup your mac](/mac-setup) if you haven't already.
+Follow the [installation instructions here to setup your mac](/before/mac-setup) if you haven't already.
 
 ### Install a text editor
 
