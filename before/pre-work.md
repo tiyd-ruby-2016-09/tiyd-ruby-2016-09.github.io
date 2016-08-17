@@ -8,10 +8,10 @@ We've got [a lot to cover](https://dgosxlrnzhofi.cloudfront.net/custom_page_imag
 
 These assignments won't make you a Ruby master (if they could, I wouldn't be here) - but they will make sure that you've got a good foundation to build on, and are ready to make the most out of the course. Importantly, this work will assure me that you:
 
-1. can self-direct progress on technical projects.
-2. have been exposed to the key technologies and workflows that we'll be using in class.
-3. can communicate difficulties and accomplishments clearly.
-4. have reflected on your learning style.
+* can self-direct progress on technical projects.
+* have been exposed to the key technologies and workflows that we'll be using in class.
+* can communicate difficulties and accomplishments clearly.
+* have reflected on your learning style.
 
 Point 2 is not "have internalized every nuance", but I will expect you to at least be _familiar_ with e.g. `git` and the terminal - you're likely to feel lost out of the gate otherwise.
 
@@ -20,7 +20,7 @@ Point 2 is not "have internalized every nuance", but I will expect you to at lea
 
 One of the hardest skills for a junior dev to learn is how to ask for help. It is also one of the most important. I, of course, am here to help however I can. But you will also need to lean on the class and community around you.
 
-1. Watch (and re-watch if necessary) this excellent video on giving and receiving help.
+* Watch (and re-watch if necessary) this excellent video on giving and receiving help.
 
 [Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s)
 
@@ -68,25 +68,25 @@ Git is a free and open source distributed version control system designed to han
 
 Again, the objective is not to become an expert before the class, but just to start to get comfortable with the concepts and vocabulary. We'll continue to work with Git throughout the course and cover some of the more advanced concerns in class.
 
-1. Go through the Treehouse course on [Git Basics](http://teamtreehouse.com/library/git-basics)
-2. If you want to spend some more time with git, [Git immersion](http://gitimmersion.com/) is a great resource.
+* Go through the Treehouse course on [Git Basics](http://teamtreehouse.com/library/git-basics)
+* If you want to spend some more time with git, [Git immersion](http://gitimmersion.com/) is a great resource.
 
 
 ## GitHub
 
 GitHub is a website which hosts Git repositories. We will be hosting all of our class projects on GitHub, and it will likely be the center of your open-source world for some time to come. In many circles, your Github profile _is_ your resume, and it needs to be created with that in mind:
 
-1. Sign up for a GitHub account at https://github.com/ - something professional, if not exactly your name
-2. Make sure to add a profile picture and your full name
-3. Email me the username you choose so that I can get you added to the group we'll be using for class
-4. Check out the [GitHub Guides](https://guides.github.com/) if you want to learn how to use GitHub prior to class.
+* Sign up for a GitHub account at https://github.com/ - something professional, if not exactly your name
+* Make sure to add a profile picture and your full name
+* Email me the username you choose so that I can get you added to the group we'll be using for class
+* Check out the [GitHub Guides](https://guides.github.com/) if you want to learn how to use GitHub prior to class.
 
 
 ## HTML / CSS
 
 At the end of the day, our applications will be responsible for producing HTML and CSS. That said, we will be covering them rapidly, as many people are familiar with them from past experience. Especially if you are not, you must take some time to familiarize yourself with these foundational technologies.
 
-1. Complete the [Codecademy HTML & CSS course](http://www.codecademy.com/en/tracks/web)
+* Complete the [Codecademy HTML & CSS course](http://www.codecademy.com/en/tracks/web)
 
 (Treehouse has some additional material that you can check out, though it goes into more depth than I'd expect you to work through on your own.)
 
@@ -97,14 +97,14 @@ This class is primarily concerned with data flow and functionality over design, 
 
 We'll cover Ruby from square one in class, but many of the concepts can take repeated exposure before sinking in. So, you don't really want your first exposure to be in lecture.
 
-1. Complete the [Codecademy Ruby course](http://www.codecademy.com/en/tracks/ruby); be sure you _understand_ at least through "Hashes and Symbols".
+* Complete the [Codecademy Ruby course](http://www.codecademy.com/en/tracks/ruby); be sure you _understand_ at least through "Hashes and Symbols".
 
 
 ## Reflection
 
 Good job! Take a step back and reflect on where you are. Did you enjoy any assignments in particular? Struggle with any? How are you feeling about the upcoming class? Excited? Nervous? How do you learn best? How can you maximize the value you get out of this course? Do you anticipate any problems? If so, how can we work to avoid them? Where do you want to be in 3 months? 12?
 
-1. Write up your reflections and send them to me via email.
+* Write up your reflections and send them to me via email.
 
 We'll be encouraging this sort of reflection throughout the course - if you feel comfortable sharing publicly, this would be a good time to start a blog and post them there.
 
