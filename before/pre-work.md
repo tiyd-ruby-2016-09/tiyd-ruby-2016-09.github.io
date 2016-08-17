@@ -55,7 +55,7 @@ I use Atom and Vim myself and have used Sublime Text in the past, but won't be r
 The command line will be our primary interface to the computer, and aside from your editor, the place you will spend the most time. If you've never opened up a terminal before, now is the time to start getting comfortable.
 
 * (Optional, but recommended) Install and use iTerm2 as your terminal
-* Read http://skillcrush.com/2012/12/03/command-line-2/
+* Read [About the Command Line](http://skillcrush.com/2012/12/03/command-line-2/)
 * Go through the Treehouse course on [Getting Started with the Console](http://teamtreehouse.com/library/console-foundations#getting-started-with-the-console)
 * Go through the Treehouse course on [Users and Permissions](http://teamtreehouse.com/library/console-foundations#users-and-permissions)
 * Go through the Treehouse course on [Environment and Redirection](http://teamtreehouse.com/library/programming/console-foundations#environment-and-redirection)
@@ -68,40 +68,35 @@ Git is a free and open source distributed version control system designed to han
 
 Again, the objective is not to become an expert before the class, but just to start to get comfortable with the concepts and vocabulary. We'll continue to work with Git throughout the course and cover some of the more advanced concerns in class.
 
-* Go through the Treehouse course on [Git Basics](http://teamtreehouse.com/library/git-basics)
+* Go through the Treehouse course on [Git Basics](http://teamtreehouse.com/library/git-basics).
 * If you want to spend some more time with git, [Git immersion](http://gitimmersion.com/) is a great resource.
 
 
 ## GitHub
 
-GitHub is a website which hosts Git repositories. We will be hosting all of our class projects on GitHub, and it will likely be the center of your open-source world for some time to come. In many circles, your Github profile _is_ your resume, and it needs to be created with that in mind:
+GitHub is a website which hosts Git repositories. We will be hosting all of our class projects on GitHub, and it will likely be the center of your open-source world for some time to come. In many circles, your GitHub profile _is_ your resume, and it needs to be created with that in mind:
 
-* Sign up for a GitHub account at https://github.com/ - something professional, if not exactly your name
-* Make sure to add a profile picture and your full name
-* Email me the username you choose so that I can get you added to the group we'll be using for class
+* [Sign up for a GitHub account](https://github.com/) - something professional, if not exactly your name.
+* Make sure to add a profile picture and your full name.
 * Check out the [GitHub Guides](https://guides.github.com/) if you want to learn how to use GitHub prior to class.
+
 
 ## HTML / CSS
 
-At the end of the day, our applications will be responsible for producing HTML and CSS. That said, we will be covering them rapidly, as many people are familiar with them from past experience. Especially if you are not, you must take some time to familiarize yourself with these foundational technologies.
+At the end of the day, many of our applications will be responsible for producing HTML and CSS. That said, we will be covering them rapidly, as many people are familiar with them from past experience. Especially if you are not, you must take some time to familiarize yourself with these foundational technologies.
 
 * Complete the [Codecademy HTML & CSS course](http://www.codecademy.com/en/tracks/web)
 
-(Treehouse has some additional material that you can check out, though it goes into more depth than I'd expect you to work through on your own.)
-
-This class is primarily concerned with data flow and functionality over design, so a little bit of extra CSS experience can really help you stand out and make your projects look significantly more polished.
+This class is primarily concerned with data flow and functionality over design, so a little bit of extra CSS experience will really help you stand out and make your projects look significantly more polished.
 
 
 ## Ruby
 
-We'll cover Ruby from square one in class, but many of the concepts can take repeated exposure before sinking in. So, you don't really want your first exposure to be in lecture.
+We'll cover Ruby from square one in class, but many of the concepts can take repeated exposure before sinking in. So, you don't want your first exposure to be in lecture.
 
-* Complete the [Codecademy Ruby course](http://www.codecademy.com/en/tracks/ruby); be sure you _understand_ at least through "Hashes and Symbols".
+* Complete the [Codecademy Ruby course](http://www.codecademy.com/en/tracks/ruby).
+* Be sure you _understand_ at least through "Hashes and Symbols".
 
-While you have the Treehouse account, it might be worthwhile to also:
-
-* Optionally work through the [Treehouse Ruby course](https://teamtreehouse.com/tracks/learn-ruby).
-* Optionally work through the [Treehouse Rails course](https://teamtreehouse.com/tracks/rails-development).
 
 ## Reflection
 
@@ -111,10 +106,17 @@ Good job! Take a step back and reflect on where you are. Did you enjoy any assig
 
 We'll be encouraging this sort of reflection throughout the course - if you feel comfortable sharing publicly, this would be a good time to start a blog and post them there.
 
+* (Optional, but recommended) [Look in to blogging on GitHub Pages](https://pages.github.com/).
+
 
 ## Next Steps
 
-If you've internalized the concepts from above, you will be ready for the first day. I'll be distributing an assignment to help you gut-check whether you've really internalized the concepts.
+If you've internalized the concepts from above, you will be ready for the first day.
+
+While you have the Treehouse account, it would be beneficial to also:
+
+* (Optional, but recommended) Go through the Treehouse course on [Ruby](https://teamtreehouse.com/tracks/learn-ruby).
+* (Optional, but recommended) Go through the Treehouse course on [Rails](https://teamtreehouse.com/tracks/rails-development).
 
 Many of you are coming into class with some non-trivial Ruby experience, and I'll be asking correspondingly more out of you. If you've got some Ruby or general programming background already:
 
