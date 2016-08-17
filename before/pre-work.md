@@ -111,7 +111,7 @@ We'll be encouraging this sort of reflection throughout the course - if you feel
 
 ## Next Steps
 
-If you've internalized the concepts from above, you will be ready for the first day. I'll be distributing a (hopefully) short assignment to help you gut-check whether you've really internalized the concepts.
+If you've internalized the concepts from above, you will be ready for the first day. I'll be distributing an assignment to help you gut-check whether you've really internalized the concepts.
 
 Many of you are coming into class with some non-trivial Ruby experience, and I'll be asking correspondingly more out of you. If you've got some Ruby or general programming background already:
 
