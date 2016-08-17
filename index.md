@@ -21,8 +21,9 @@ document.write('<p>If you have ANY questions at all, please reach out to me at <
 </script>
 <noscript>Enable javascript to see my email!</noscript>
 
-<!-- * [Read the Syllabus](/syllabus) -->
-* [Get a Mac](/mac-specs)
-* [Setup your Mac](/mac-setup)
-* [Register for accounts](/accounts)
-* [Do the Pre-work](/pre-work)
+* [Read the Syllabus](/before/syllabus)
+* [Learning Values](/before/learning-values)
+* [Get a Mac](/before/mac-specs)
+* [Setup your Mac](/before/mac-setup)
+* [Register for accounts](/before/accounts)
+* [Do the Pre-work](/before/pre-work)

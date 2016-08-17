@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Mac Setup
+# Mac Setup
 
 As soon as possible after receiving your Mac, run through the following steps. If you've done a lot of your own configuration, some of these steps may have to change.
 

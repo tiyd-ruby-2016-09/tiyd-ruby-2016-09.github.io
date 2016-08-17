@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Get a Mac
+# Get a Mac
 
 All students must bring their own MacBook laptop. Your MacBook should have a minimum of 4GB of RAM and 128GB of hard drive space. Those are minimum specs, but I *REALLY* recommend getting 8GB or more of RAM.
 

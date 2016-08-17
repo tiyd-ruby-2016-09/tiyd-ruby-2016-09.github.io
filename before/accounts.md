@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Accounts
+# Accounts
 
 Over the course of the class, we'll be using a number of online services. These are the ones you'll need to register for on your own. Please use the __same email address__ to register that you provided for our Iron Yard communications.
 

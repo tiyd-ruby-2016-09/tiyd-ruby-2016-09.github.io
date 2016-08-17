@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Pre-work
+# Pre-work
 
 We've got [a lot](https://dgosxlrnzhofi.cloudfront.net/custom_page_images/64/page_images/Rails_Competencies.png?1386276348) to cover and only a few short weeks to do so. I'm going to ask that you complete some preliminary work, so that we can establish a common starting point and spend class time focusing on things that are most difficult to learn on your own.
 
